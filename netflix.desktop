@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Netflix Desktop
+Comment=Watch netflix videos
+Exec=/usr/bin/netflixDE.sh
+Icon=
+Type=Application
