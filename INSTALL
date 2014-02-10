@@ -1,4 +1,4 @@
-installation
+#installation
 sudo mv netflixDE.sh /usr/bin/
 sudo mv netflix.desktop /usr/share/xsessions/
 
